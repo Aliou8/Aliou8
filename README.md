@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliouly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aliouly.emp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:aliou-ly.emp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -57,14 +57,14 @@
 | 📡 [**RadioPiLink**](https://github.com/Aliou8/RadioPiLink) | IoT radio gateway: STM32WLE5 sub-GHz node → Raspberry Pi → local network, with a custom Yocto layer. | STM32WLE5 · Raspberry Pi · Yocto |
 
 ---
-
-### 📊 GitHub stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aliou8&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliou8&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aliou8&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aliou8&theme=radical" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aliou8&theme=radical&hide_border=true" alt="GitHub streak"/>
+</p>
 ---
 
 <p align="center"><i>"From schematic to orbit — one register at a time."</i></p>
