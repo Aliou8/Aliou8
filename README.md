@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Systems Engineer · Space & RF · Open Source</h3>
 
 <p align="center">
-  I design embedded hardware and firmware — from PCB to RTOS — for small satellites, robots and IoT radio links.
+  I design embedded hardware and firmware  from PCB to RTOS  for small satellites, robots and IoT radio links.
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🛰️ [**SAHEL-SPECTRA-RF**](https://github.com/Aliou8/SAHEL-SPECTRA-RF) | Experimental educational CubeSat: OBC + dual-band radio PCB, solar/battery EPS, multi-threaded firmware with Zephyr zbus, AX.25 ground link. | STM32H7 · Zephyr · CC1200 · KiCad |
-| 🤖 [**Robot-Autonome**](https://github.com/Aliou8/Robot-Autonome) | *RobotFeliMulot* — autonomous "cat & mouse" robot with 2D LIDAR, IMU, bumpers and differential PWM drive, fully documented with Doxygen. | STM32G431 · FreeRTOS · LIDAR |
+| 🤖 [**Robot-Autonome**](https://github.com/Aliou8/Robot-Autonome) | *RobotFeliMulot*  autonomous "cat & mouse" robot with 2D LIDAR, IMU, bumpers and differential PWM drive, fully documented with Doxygen. | STM32G431 · FreeRTOS · LIDAR |
 | 📡 [**RadioPiLink**](https://github.com/Aliou8/RadioPiLink) | IoT radio gateway: STM32WLE5 sub-GHz node → Raspberry Pi → local network, with a custom Yocto layer. | STM32WLE5 · Raspberry Pi · Yocto |
 
 ---
@@ -67,4 +67,4 @@
 </p>
 ---
 
-<p align="center"><i>"From schematic to orbit — one register at a time."</i></p>
+<p align="center"><i>"From schematic to orbit  one register at a time."</i></p>
